@@ -1,4 +1,4 @@
-# Utilis collection toolkit
+# Utils collection toolkit
 
 ### all
 Get all the items in the collection, after some modification/operation
